@@ -1,0 +1,33 @@
+.header, h1{text-align: center; 
+    background-color: darkgoldenrod; 
+    width: 100%; height: 500%;}
+
+body {background-color: beige; 
+    align-items: center;
+align-content: center;
+text-align: center;}
+
+h2{background-color: darkgoldenrod;
+font-size: x-large;}
+ 
+main{align-items: center;}
+
+table {color: darkgoldenrod; 
+    align-items: center;
+align-content: center;
+float: none;
+margin-right: auto;
+margin-left: auto;}
+
+tr, td {align-content: center;}
+ 
+table p{font-size: 200%}
+
+td {font-size:large;}
+
+ul{font-style: oblique ; 
+    list-style: none;
+     display: flex; 
+     flex-direction: row; 
+     justify-content: space-around;
+      align-items: center}
